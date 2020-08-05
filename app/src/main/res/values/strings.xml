@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Group Project</string>
+    <string name="todo">TODO</string>
+    <string name="txtTitle">Group Project</string>
+    <string name="txtWelcome">Welcome Back,</string>
+    <string name="txtLogin">Log In !</string>
+    <string name="inputPassword">Password</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="inputEmail">Email</string>
+    <string name="txtWelcomeMessage">Hello Bharat</string>
+
+</resources>
